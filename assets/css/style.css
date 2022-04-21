@@ -44,11 +44,17 @@
     font-size: 20px;
 }
 
+
 /*Estilos da página musica.html*/
 
-.rodape-musica {
-    padding-top: 112px;
+.container-video {
+    padding: 31px;
 }
+
+.rodape-musica {
+    padding-top: 50px;
+}
+
 
 /*Estilos da página contatos.html*/
 
@@ -68,9 +74,10 @@
 .rede-social {
     width: 40px;
     height: 40px;
-    padding: 50px;
+    margin: 20px;
+    padding-top: 90px;
 }
 
-.rodape {
-    padding-top: 66px;
+.rodape-contatos {
+    padding-top: 41px;
 }
